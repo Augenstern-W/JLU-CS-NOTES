@@ -1,3 +1,3 @@
 # JLU-CS-NOTES
-Welcome to JLU CS!
+Welcome to JLU CS!\n 
 Collection of personal notes,homework codes,lab reports and exam review materials for JLU Computer Science Majors.
