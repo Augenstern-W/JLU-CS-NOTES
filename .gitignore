@@ -67,3 +67,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# 体积过大 / 版权受限的资料，不纳入仓库
+计算机安全/计算机安全导论：深度实践.pdf
+*.msi
